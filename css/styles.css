@@ -1,0 +1,22 @@
+
+body {
+    background-color: #EAF6F6;
+}
+
+.container {
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gainsboro;
+    border-width: 5px;
+    width: 65px;
+}
+h1, h3 {
+    background-color: none;
+    color: #66BFBF;
+}
+        
